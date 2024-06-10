@@ -10,4 +10,4 @@
 Your notebook & ppt both should be in the form of Name_EnrollmentNumber.ipynb example : Pickle_20XX23XX.
 Refer this [pull request](https://github.com/FinClub-IITR/AlgoTrading-24/pull/3) for reference.
 
-Please do ensure you fill out this form too for prize distribution( incase you win one!).
+Please do ensure you fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSe-1nsF0UskOUBbJ7x9GRa0tOcWopCNssPKB3scWqDQc4uXlg/viewform) too for prize distribution( incase you win one!).
