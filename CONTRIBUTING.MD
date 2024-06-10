@@ -6,4 +6,6 @@
 4. Push your changes in your forked repository.
 5. Then sync your fork by creating a pull request.
 
-Your notebook should be in the form of Name_EnrollmentNumber.ipynb example : Pickle_20XX23XX
+Your notebook & ppt both should be in the form of Name_EnrollmentNumber.ipynb example : Pickle_20XX23XX.
+Refer this [pull request](https://github.com/FinClub-IITR/AlgoTrading-24/pull/3) for reference.
+.
